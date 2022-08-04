@@ -1,5 +1,0 @@
-#!/bin/bash
-
-gcc src/main.c -o bot -pthread -ldiscord -lcurl
-
-./bot

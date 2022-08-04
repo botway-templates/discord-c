@@ -7,3 +7,5 @@ CFLAGS="-DCCORD_SIGINTCATCH -DCCORD_DEBUG_HTTP" make
 make voice
 
 sudo make install
+
+Remove-Item concord -Recurse -Force

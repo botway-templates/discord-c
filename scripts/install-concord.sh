@@ -9,3 +9,5 @@ CFLAGS="-DCCORD_SIGINTCATCH -DCCORD_DEBUG_HTTP" make
 make voice
 
 sudo make install
+
+rm -rf concord
