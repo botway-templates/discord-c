@@ -10,4 +10,6 @@ make voice
 
 sudo make install
 
+cd ..
+
 rm -rf concord
