@@ -8,4 +8,6 @@ make voice
 
 sudo make install
 
+cd ..
+
 Remove-Item concord -Recurse -Force
